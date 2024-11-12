@@ -1,0 +1,14 @@
+.lightCardContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; /* Align vertically */
+}
+
+.lighCard {
+    flex: 1; /* Allows the lightning card to take up available space on the left */
+}
+
+.buttonLigh {
+    /* You can adjust the width here if needed */
+    margin-left: 10%; /* Optional: space between the card and button */
+}
