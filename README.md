@@ -31,6 +31,6 @@ Once the Time-Out Capture LWC is added to a page layout, follow these steps to u
 
   ![image](https://github.com/user-attachments/assets/8358ea81-6b34-474b-91ad-22f600883b14)
 
-- Save the record. The absence details will be captured and stored in the relevant fields for that object.
+- Save the record. The absence details will be captured and stored in the service resource object.
 - The captured data will be accessible for reporting and scheduling adjustments.
 
